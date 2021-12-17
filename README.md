@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ghubr
-- 👀 I’m interested in environmental issues, data science and data evaluation
-- 🌱 I’m currently learning python, pandas and keras
-- 💞️ I’m looking to collaborate on data evaluation
+Hi,
+- I’m interested in environmental issues, data science and data evaluation
+- I’m currently learning python, pandas and keras
+- I’m looking to collaborate on data evaluation
 
 <!---
 ghubr/ghubr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
