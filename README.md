@@ -1,7 +1,4 @@
-Hi,
-- I’m interested in environmental issues, data science and data evaluation
-- I’m currently learning python, pandas and keras
-- I’m looking to collaborate on data evaluation
+## Data Science with bird field data. 
 
 <!---
 ghubr/ghubr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
