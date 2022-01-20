@@ -1,4 +1,5 @@
-## Data Science with bird field data. 
+What you can find here: Data Science
+
 
 <!---
 ghubr/ghubr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
